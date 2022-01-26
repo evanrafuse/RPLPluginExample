@@ -1,0 +1,1 @@
+This plugin is very simple. If you upload a picture on your WordPress website and give it a class of "outerspace", when you mouse over it your cursor will turn into a tiny flying saucer. That's it.
